@@ -1,6 +1,5 @@
-// Programa : Pisque um LED
-// Autor : MakerHero
-  
+//projeto de led arduino
+
 void setup()
 {
   //Define a porta do led como saida
