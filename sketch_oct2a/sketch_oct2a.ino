@@ -1,3 +1,5 @@
+//medidor de temperatura
+
 #include <DHT.h>
 
 #define DHTPIN 2      // Pino onde o sensor DHT está conectado
